@@ -1,1 +1,1 @@
-This is a sample file
+ file content locally changed
